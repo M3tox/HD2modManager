@@ -10,11 +10,13 @@ Make a folder and put all mods you want to activate in there. The folder can be 
 Your mods must be packed as .zip archives!
 The hirarchy of the zip-archives must be exactly how you would put the files into the H&D2 directory.
 e.g.:
+
 ![grafik](https://user-images.githubusercontent.com/75583358/116796834-ea48ca80-aadf-11eb-96cc-dfb643c3abb4.png)
 
 # Usage
 Start it up. On the left box "Installed mods" you see all the mods in your mod folder, unless they are already activated.
 Press the button in the bottom left to change the mod folder.
+
 ![grafik](https://user-images.githubusercontent.com/75583358/116796876-490e4400-aae0-11eb-8ce0-9d49a3fe3465.png)
 
 Now, when the mods are listed up you can simply select them and hit the ">" button in the middle to activate it.
