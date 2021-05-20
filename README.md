@@ -1,8 +1,7 @@
 # HD2modManager
 Helps the user to handle his mods for the game Hidden &amp; Dangerous 2
 
-Code will be added soon!
-This is not the final version! Mind that it currently still has a few bugs. 
+This is not the final version! Mind that it currently still has a few minor bugs. 
 
 # Installation
 Just drop the HD2modManager.exe in the same folder where H&D2 is installed.
@@ -29,7 +28,7 @@ If the mod has a README.txt file, you can open it with the "View README" button.
 Mind that this only works if the mod was activated! This is because the mod manager does not touch any of the archived mods as long as they are not active.
 
 # mpmaplist.txt
-In the top under "File" you can activate "allow mpmaplist modification". If it is not activated it won't touch your mpmaplist.
+In the top under "File" you can activate "allow mpmaplist modification". This feature is experimental, so it is suggested to make a backup of your mpmaplist. However, if it is not activated it won't touch your mpmaplist.
 If activated and if the mod includes a mpmaplist, the modManager will merge the content with the maplist you already have.
 When you deactivate a mod which has its own mpmaplist, the modManager will remove its content out of your mpmaplist.
 If you dont have a mpmaplist already, it will just copy it over from the mod.
